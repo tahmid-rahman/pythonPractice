@@ -7,3 +7,6 @@ elif a % 3 == 0:
     print(a % 5)
 else:
     print("not divisible by any of those 3 or 5")
+
+    #hello everyone how are you all
+    
